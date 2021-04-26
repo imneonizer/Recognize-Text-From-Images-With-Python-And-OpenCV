@@ -3,7 +3,7 @@
 You can use this code to Train on Any Font Style of English Alphabets and Numbers, This code is so powerful when it comes to extracting Text From Images. And the best part is you can train the model as per your preference.
 
 ````python
->> pip install cv2
+>> pip install opencv-python
 >> pip install numpy
 ````
 
@@ -59,9 +59,3 @@ You can use this code to Train on Any Font Style of English Alphabets and Number
 > Test Image 3
 >
 > ![](test3.png)
-
-#### Algorithm used
-
-> KNN Algorithm
->
-> ![overview](DocsAndPresentation/KNN_Overview.png)
